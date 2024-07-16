@@ -1,4 +1,4 @@
-# r_store
+# R store
 
 A new Flutter project.
 
