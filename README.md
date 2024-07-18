@@ -15,4 +15,4 @@
 
 # :iphone: Screens
 
-![r-store](https://github.com/user-attachments/assets/88004ba6-967c-4eaf-93dd-0176277f1ec0)
+<img width="6981" alt="Group 17" src="https://github.com/user-attachments/assets/b5033255-0d30-4a3f-ba5a-c1642f465b35">
