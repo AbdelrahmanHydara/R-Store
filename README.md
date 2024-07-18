@@ -15,6 +15,4 @@
 
 # :iphone: Screens
 
-![Uploading r-store.png…]()
-
-
+![r-store](https://github.com/user-attachments/assets/88004ba6-967c-4eaf-93dd-0176277f1ec0)
